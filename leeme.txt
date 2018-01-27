@@ -1,0 +1,8 @@
+En este proyecto se realiza un pequeño ejemplo de como llamar un procedimiento almacenado desde django.
+
+Queda funcional.
+
+
+
+Gesoft
+26-01-2018
